@@ -75,7 +75,7 @@ else:
 
 Modify `config.py` to change output resolution, detection thresholds, or default paths.
 
-## 🔬 Research & Experiments (Experimental)
+## Research & Experiments (Experimental)
 
 The `research/` folder is an isolated "experimental laboratory" where various alternative approaches were explored. These methods are provided for transparency and to showcase different technical possibilities; they are **not** part of the core production system.
 
@@ -105,7 +105,7 @@ This explores a high-precision **Two-Stage Approach**:
 
 ---
 
-## 🛠️ Main System vs. Research
+## Main System vs. Research
 
 - **Main System (`app.py` / `src/`)**: Use this for production. It is stable, tested, and uses the best-performing AI model.
 - **Research Folder (`research/`)**: Use this to see alternative ideas. It is completely isolated and does not affect the performance or stability of the main system.
